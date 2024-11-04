@@ -8,6 +8,7 @@
     <artifactId>commonutils</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+
     <modules>
         <module>redis</module>
         <module>kafka</module>
@@ -17,6 +18,7 @@
         <module>database</module>
         <module>sort</module>
         <module>string</module>
+        <module>date</module>
     </modules>
 
     <properties>
